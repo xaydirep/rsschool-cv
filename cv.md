@@ -2,7 +2,7 @@
 
 ### Contact information:
 
-Github: <https://github.com/xaydirep>
+Github: <https://github.com/xaydirep>  
 Discord: xaydirep
 
 ### About Me:
