@@ -11,3 +11,5 @@ Hi. My name is Aleksey. I am 19 years old. For a long time I want to become a fr
 ### Code example:
 ### Education:
 I finished 11 grades of school, entered the institute at the faculty of "Applied Computer Science". At the same time, I tried to take programming courses, but due to lack of time, alas, I did not finish them.
+### Languages:
+I have a high school level of English. At the moment I am self-training in the app "Lingualeo" to understand it better.
