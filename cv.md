@@ -1,4 +1,4 @@
-###### Aleksey Ischenko
+# Aleksey Ischenko
 ### Contact information:
 Github: <https://github.com/xaydirep>
 Discord: xaydirep
@@ -8,3 +8,6 @@ Hi. My name is Aleksey. I am 19 years old. For a long time I want to become a fr
 + Git, GitHub
 + VS Code
 + HTML5, CSS3
+### Code example:
+### Education:
+I finished 11 grades of school, entered the institute at the faculty of "Applied Computer Science". At the same time, I tried to take programming courses, but due to lack of time, alas, I did not finish them.
