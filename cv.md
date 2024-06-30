@@ -1,16 +1,27 @@
 # Aleksey Ischenko
+
 ### Contact information:
+
 Github: <https://github.com/xaydirep>
 Discord: xaydirep
+
 ### About Me:
+
 Hi. My name is Aleksey. I am 19 years old. For a long time I want to become a frontend developer, but there was not enough time for full-fledged studies. Now I've adjusted my schedule, signed up for a course, and will try to learn. My goal is to learn the discipline, to communicate with people of interest. After the course I would like to try to find a job in my specialty.
+
 ### Skills:
-+ Git, GitHub
-+ VS Code
-+ HTML5, CSS3
+
+- Git, GitHub
+- VS Code
+- HTML5, CSS3
+
 ### Code example:
+
 This is a sample code of my CV using html:
-`<!DOCTYPE html>
+
+```
+<!DOCTYPE html>
+
 <html>
   <head>
     <title>CV</title>
@@ -38,8 +49,13 @@ This is a sample code of my CV using html:
       <h3>Languages:</h3>
       <p>I have a high school level of English. At the moment I am self-training in the app "Lingualeo" to understand it better.</p>
   </body>
-</html>`
+</html>
+```
+
 ### Education:
+
 I finished 11 grades of school, entered the institute at the faculty of "Applied Computer Science". At the same time, I tried to take programming courses, but due to lack of time, alas, I did not finish them.
+
 ### Languages:
+
 I have a high school level of English. At the moment I am self-training in the app "Lingualeo" to understand it better.
